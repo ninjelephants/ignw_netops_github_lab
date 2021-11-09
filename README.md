@@ -2,6 +2,6 @@
 IGNW Netops Github Lab
 # Favorite fruit
 - banana
-- apple
+- apples
 - orange
 - grapes
